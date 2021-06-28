@@ -1,0 +1,193 @@
+.colorsbox {
+    border: 5px solid black;
+    padding: 50px;
+    text-align: center;
+    background-color: lavender;
+}
+.fontbox {
+    text-align: center;
+
+}
+.colorsbox li {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    padding: 20px;
+    border: 0px solid black;
+    position:relative;
+    font-family: monospace;
+}
+.redbox {
+    background-color: red;
+    color:honeydew;
+}
+.yellowbox {
+    background-color: yellow;
+}
+.bluebox {
+    background-color: blue;
+    color:honeydew;
+}
+.greenbox {
+    background-color: green;
+}
+
+body {
+    background-color: grey;
+}
+h1 {
+    font-family: 'Viaoda Libre', cursive;
+    display: block;
+    text-align: center;
+    
+}
+h2 {
+    font-family: 'Jomhuria', cursive;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    
+}
+.h2Style {
+    padding: 0px;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 24px;
+    display: block;
+    text-align: center;
+}
+h3 {
+    font-family: 'Viaoda Libre', cursive;
+    display: block;
+    text-align: center;
+}
+h4 {
+    font-family: 'Viaoda Libre', cursive;
+    display: block;
+    text-align: center;
+}
+h5 {
+    font-family: 'Viaoda Libre', cursive;
+    display: block;
+    text-align: center;
+}
+.pExample {
+    font-family: monospace;
+    display: block;
+    text-align: center;
+
+}
+
+
+.JomhuriaElement {
+    float: left;
+    width: 450px;
+}
+.JomhuriaNormal{
+    font-family: 'Jomhuria';
+    font-size: 35px;
+    border: 3px solid black;
+    padding: 15px;
+    width: 350px;
+    background-color:blanchedalmond;
+    margin: 5px;
+}
+.JomhuriaBold {
+    font-family: 'Jomhuria';
+    font-weight: 1000;
+    font-size: 35px;
+    border: 3px solid black;
+    padding: 15px;
+    width: 350px;
+    background-color: blanchedalmond;
+    margin: 5px;
+
+}
+.JomhuriaItalic {
+    font-family: 'Jomhuria';
+    font-style: italic;
+    font-size: 35px;
+    border: 3px solid black;
+    padding: 15px;
+    width: 350px;
+    background-color: blanchedalmond;
+    margin: 5px;
+}
+.BigStencilNormal {
+    font-family: 'Big Shoulders Stencil Display';
+    background-color: burlywood;
+    border: 3px solid black;
+    font-size: 35px;
+    padding: 15px;
+    width: 350px;
+    margin: 5px;
+    
+}
+.BigStencilBold {
+    font-family: 'Big Shoulders Stencil Display';
+    background-color: burlywood;
+    border: 3px solid black;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 15px;
+    width: 350px;
+    margin: 5px;
+    
+}
+.BigStencilItalic {
+    font-family: 'Big Shoulders Stencil Display';
+    background-color: burlywood;
+    border: 3px solid black;
+    font-style: italic;
+    font-size: 35px;
+    padding: 15px;
+    width: 350px;
+    margin: 5px;
+}
+
+.BigShoulderElement {
+    float: left;
+    width: 450px;
+   
+    
+}
+.ViaodaLibreElement {
+    float: left;
+    width: 450px;
+    
+}
+.ViaodaLibreNormal {
+    font-family: 'Viaoda Libre';
+    font-size: 35px;
+    border: 3px solid black;
+    background-color:blanchedalmond;
+    margin: 5px;
+    padding: 15px;
+
+}
+.ViaodaLibreBold {
+    font-family: 'Viaoda Libre';
+    font-size: 35px;
+    font-weight: 1000;
+    border: 3px solid black;
+    background-color:blanchedalmond;
+    margin: 5px;
+    padding: 15px;
+}
+.ViaodaLibreItalic {
+    font-family: 'Viaoda Libre';
+    font-size: 35px;
+    font-style: italic;
+    border: 3px solid black;
+    background-color:blanchedalmond;
+    margin: 5px;
+    padding: 15px;
+}
+.monospace {
+    font-family: monospace;
+    text-align: center;
+}
+li {
+    list-style-type: none;
+}
